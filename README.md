@@ -6,7 +6,7 @@
 - Read test files and identify the purpose of test code
 
 ## Introduction
-
+an important introduction to testing i would say
 In this lab, we'll discuss how the tests are set up for the labs in a typical
 React application, and give some tips for running tests.
 
